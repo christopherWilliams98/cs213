@@ -14,7 +14,6 @@ public class MoveWithKeyboardBehavior : AgentBehaviour
     public override Steering GetSteering()
     {
         Steering steering = new Steering();
-        //implement your code here
         return steering;
     }
 
